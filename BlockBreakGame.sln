@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6E0A251E-D290-4D77-495C-790F5732EFD7}") = "BlockBreakGame", "Assembly-CSharp-firstpass.csproj", "{B8961C46-0D37-277A-97E2-E097786338DE}"
+EndProject
+Project("{6E0A251E-D290-4D77-495C-790F5732EFD7}") = "BlockBreakGame", "Assembly-CSharp.csproj", "{78D6F36E-BCE5-64A4-20B1-7638E4FC5A64}"
+EndProject
+Project("{6E0A251E-D290-4D77-495C-790F5732EFD7}") = "BlockBreakGame", "Assembly-CSharp-Editor.csproj", "{189EE9F9-C89A-C4FE-D71F-9FE5B861337E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8961C46-0D37-277A-97E2-E097786338DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8961C46-0D37-277A-97E2-E097786338DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8961C46-0D37-277A-97E2-E097786338DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8961C46-0D37-277A-97E2-E097786338DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D6F36E-BCE5-64A4-20B1-7638E4FC5A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D6F36E-BCE5-64A4-20B1-7638E4FC5A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D6F36E-BCE5-64A4-20B1-7638E4FC5A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D6F36E-BCE5-64A4-20B1-7638E4FC5A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189EE9F9-C89A-C4FE-D71F-9FE5B861337E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189EE9F9-C89A-C4FE-D71F-9FE5B861337E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189EE9F9-C89A-C4FE-D71F-9FE5B861337E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189EE9F9-C89A-C4FE-D71F-9FE5B861337E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
